@@ -1,0 +1,14 @@
+# Python standard .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment variable file
+.env
+
+# Virtual environment
+.venv/
+
+# Logs
+logs/
